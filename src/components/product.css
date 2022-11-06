@@ -1,0 +1,18 @@
+.pro-wrap{
+    width: 100%;
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.pro-card .text{
+    color: darkblue;
+    display: flex;
+    justify-content: space-around;
+}
+.pro-card{
+    margin: 20px;
+}
+.pro-card:hover{
+    opacity: 90%;
+    zoom: 1.5;
+}

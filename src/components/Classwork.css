@@ -1,0 +1,11 @@
+.box-wrap{
+    display: flex;
+    border: dotted;
+    text-align: left;
+    
+}
+.box-wrap img{
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+}
